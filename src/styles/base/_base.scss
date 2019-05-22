@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    padding: 0;
+    color: $athens-gray;
+    font-weight: normal;
+    font-family: $base-font-family;
+    background-color: $white;
+}
+
+h1,
+h2,
+h3,
+h4 {
+    margin-bottom: 0;
+}
+
+label {
+    color: $athens-gray;
+}

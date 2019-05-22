@@ -1,0 +1,42 @@
+.recipe {
+    margin: 1rem 0;
+    padding: 0.8rem;
+    text-align: left;
+    width: 100%;
+    height: auto;
+    border: .1rem solid $athens-gray;
+}
+
+.recipe-image {
+    width: 100%;
+    height: auto;
+    margin-bottom: .4rem;
+}
+
+.thumb {
+    width: 100%;
+    height: auto;
+}
+
+.recipe-details {
+    width: 100%;
+    height: auto;
+
+    h3{
+        color: $cod-gray;
+        display: inline-block;
+        font-weight: 700;
+        font-size: 1rem;
+    }
+
+    span {
+        color: $cod-gray;
+        text-align: right;
+        float: right;
+    }
+
+    p{
+        color: $cod-gray;
+        margin-bottom: 0;
+    }
+}
