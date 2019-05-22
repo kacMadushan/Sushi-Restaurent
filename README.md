@@ -2,14 +2,15 @@
 This project was custom-built React boilerplate. <br/>
 
 To run the app locally.<br/>
-``git clone https://github.com/kacMadushan/Sushi-Restaurent.git
+```git clone https://github.com/kacMadushan/Sushi-Restaurent.git
 cd Sushi-Restaurent
-yarn run dev-server``
+yarn run dev-server```
 
 
 ## Available Scripts
 In the project directory, you can run:
 ### `yarn run dev-server`
+### `yarn run build`
 Runs the app in the development mode.<br/>
 Open http://localhost:8080/ to view it in the browser.
 
